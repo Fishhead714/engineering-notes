@@ -1,0 +1,17 @@
+# engineering-notes
+
+用 AI 干活的一些实践笔记：哪里出了问题、怎么发现的、之后怎么做。写给在工作中用 AI 的人，不需要技术背景。
+
+Short essays (in Chinese) on working with AI agents: what went wrong, how it was found, and what to do instead.
+
+## 文章
+
+| # | 标题 | 一句话 |
+|---|---|---|
+| 1 | [AI 说"72 条全部正确"，其实它只看了第一页](posts/01-ai-said-checked.md) | AI 说"没问题"，可能是它没看见。让它报数、说出没查的部分、换一个 AI 复查。 |
+| 2 | [AI 帮我查了好几遍"没问题"，发出去还是出事了](posts/02-only-what-you-asked.md) | AI 只查你问到的那几项。别只说"帮我检查一下"；改写、翻译过的内容要问出处。 |
+| 3 | [同时开 7 个 AI 干活，事情反而停了](posts/03-too-many-agents.md) | 窗口越多，传话越多；它记得的也不等于现在的。少开窗口，结论写进一个共享文档。 |
+
+## 许可
+
+文字按 [CC BY 4.0](LICENSE) 授权：可以转载、改编，注明出处即可。
