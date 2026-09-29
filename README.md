@@ -14,4 +14,4 @@ Short essays (in Chinese) on working with AI agents: what went wrong, how it was
 
 ## 许可
 
-文字按 [CC BY 4.0](LICENSE) 授权：可以转载、改编，注明出处即可。
+© 2026 Fishhead714。文字按 [CC BY 4.0](LICENSE) 授权：可以转载、改编，注明出处即可。
